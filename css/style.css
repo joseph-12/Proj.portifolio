@@ -211,14 +211,15 @@ h5{
 	font-family: 'Material Icons';
 	font-weight: normal;
 	font-style: normal;
-	font-size: 30px;  /* Preferred icon size */
 	display: inline-block;
 	line-height: 1;
+	font-size: 100% !important; /*tamanho do icone */
 	text-transform: none;
 	letter-spacing: normal;
 	word-wrap: normal;
 	white-space: nowrap;
 	direction: ltr;
+	font-size : 50px !important
   
 	/* Suporte para todos os navegadores WebKit. */
 	-webkit-font-smoothing: antialiased;
